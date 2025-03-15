@@ -11,6 +11,7 @@ Bu klasör, **Obje odaklı programlamanın temel konularını** içermektedir. H
 | **16-OOP.ipynb**   | Object Oriented Programing temel kavramları |
 | **017-OzelMethodlar.ipynb**      | Bazı özel methodlar ve kullanımları |
 | **18-HatalarıEleAlmak.ipynb**     | Try, except, else, finaly komutlarının kullanımları |
+| **19-ModullerPaketler.ipynb**     | Veri biliminde sık kullanılan paketler. Nump, matplotlip.. |
 
 
 
