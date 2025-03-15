@@ -13,8 +13,17 @@ Bu klasör, **Python programlamanın temel konularını** içermektedir. Her bir
 | **03-Sozlukler.ipynb**     | Sözlük veri yapısı ve kullanımı |
 | **04-Setler.ipynb**        | Kümeler (Set) veri yapısı ve işlemleri |
 | **05-Tuple.ipynb**         | Tuple veri yapısı ve kullanımı  |
-| **06-Boolean.ipynb**       | Boolean verş tipleri ve kullanımı  |
+| **06-Boolean.ipynb**       | Boolean veri tipleri ve kullanımı  |
 | **07-EgerKontrolleri.ipynb** | Koşul ifadeleri ve kotnrol yapıları  |
+| **08-ForDongusu.ipynb**     | For föngüsü ve kullanımı |
+| **09-ContinueBreakPass.ipynb**        | Continue, break, pass komutlarının kullanımı |
+| **10-WhileDongusu.ipynb**         | Whike döngüsü ve kullanımı  |
+| **11-VeriBilimiFaydalıMethodlar.ipynb**       | Veri biliminde kullanılan faydalı methodlar  |
+| **12-FonksiyonlarveMethodlar.ipynb** | Fonksiyonlar ve Methodlar ve kullanımları  |
+| **13-FaydalıFonksiyonlar.ipynb**     | Faydalı fonksiyon örnekleri |
+| **14-Kapsam.ipynb**        | Scope, local, enclosing, global, built-in |
+| **15-Hesapmakinesi.ipynb**         | Örnek uygılama olarak hesap makinesi |
+
 
 ---
 
